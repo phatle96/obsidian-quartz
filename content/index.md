@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Hello there, this blog is written for everyone!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I am going to write some stuff on this site, maybe posts, videos, or anything else, be patient!
